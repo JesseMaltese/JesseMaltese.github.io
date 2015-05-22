@@ -1,0 +1,55 @@
+body {
+	background: #fffff0;
+}
+.bio {
+	color:#3D352A;
+	display:block;
+}
+h1, h2, h3, h4, h5, h6 {	
+	font-family: 'Source Sans Pro', sans-serif;
+}
+h1 {
+	color: #3D352A;
+	text-align: center;
+	border-bottom: solid;
+	border-color: red;
+	font-size:60px;
+}
+.paragraph {
+	display:block;
+	padding-left:50px;
+	width:40%;
+	color:#3D352A;
+	font-size: 19px;
+}
+h2 {
+	font-size:27px;
+}
+img {
+	float: right;
+	max-width:100%;
+	max-height:auto;
+	width: 28%;
+	height:auto;
+}
+.col {
+}
+table {
+	max-width: 100%;
+	border-spacing:10px;
+	padding-top: 50px;
+	}
+
+table th, table td {
+	width: 33%;
+}
+table td {
+	color:#3D352A;
+	vertical-align:top;
+	font-size: 18px;
+}
+table th {
+	color:#3D352A;
+	font-family:'Source Sans Pro',sans-serif;
+	font-size:20px;
+}
